@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1542839939 source:c:\users\marco castro vázquez\onedrive\documentos\seminario estructura\practica 3\listadoble\main.cpp
+	<iostream>
+	"Lista.h"
+	"Ropa.h"
+	"Tienda.h"
+
+1542839579 source:c:\users\marco castro vázquez\onedrive\documentos\seminario estructura\practica 3\listadoble\src\ropa.cpp
+	"Ropa.h"
+
+1542839073 c:\users\marco castro vázquez\onedrive\documentos\seminario estructura\practica 3\listadoble\include\ropa.h
+	<string>
+
+1542839595 source:c:\users\marco castro vázquez\onedrive\documentos\seminario estructura\practica 3\listadoble\src\tienda.cpp
+	"Tienda.h"
+
+1542839223 c:\users\marco castro vázquez\onedrive\documentos\seminario estructura\practica 3\listadoble\include\tienda.h
+	"Ropa.h"
+
+1542840759 source:c:\users\marco castro vázquez\onedrive\documentos\seminario estructura\practica 3\listadoble\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1542840758 c:\users\marco castro vázquez\onedrive\documentos\seminario estructura\practica 3\listadoble\include\lista.h
+	"Ropa.h"
+
+1542867845 source:c:\users\pc\onedrive\documentos\seminario estructura\practica 3\listadoble\main.cpp
+	<iostream>
+	"Lista.h"
+	"Ropa.h"
+	"Tienda.h"
+	<stdlib.h>
+
+1542867845 c:\users\pc\onedrive\documentos\seminario estructura\practica 3\listadoble\include\lista.h
+	"Tienda.h"
+
+1542839073 c:\users\pc\onedrive\documentos\seminario estructura\practica 3\listadoble\include\ropa.h
+	<string>
+
+1542856581 c:\users\pc\onedrive\documentos\seminario estructura\practica 3\listadoble\include\tienda.h
+	"Ropa.h"
+
+1542867858 source:c:\users\pc\onedrive\documentos\seminario estructura\practica 3\listadoble\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1542839579 source:c:\users\pc\onedrive\documentos\seminario estructura\practica 3\listadoble\src\ropa.cpp
+	"Ropa.h"
+
+1542856826 source:c:\users\pc\onedrive\documentos\seminario estructura\practica 3\listadoble\src\tienda.cpp
+	"Tienda.h"
+	<sstream>
+
+1542867845 source:c:\users\marco\onedrive\documentos\seminario estructura\practica 3\listadoble\main.cpp
+	<iostream>
+	"Lista.h"
+	"Ropa.h"
+	"Tienda.h"
+	<stdlib.h>
+
+1542867845 c:\users\marco\onedrive\documentos\seminario estructura\practica 3\listadoble\include\lista.h
+	"Tienda.h"
+
+1542856581 c:\users\marco\onedrive\documentos\seminario estructura\practica 3\listadoble\include\tienda.h
+	"Ropa.h"
+
+1542839073 c:\users\marco\onedrive\documentos\seminario estructura\practica 3\listadoble\include\ropa.h
+	<string>
+
+1542867858 source:c:\users\marco\onedrive\documentos\seminario estructura\practica 3\listadoble\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1542839579 source:c:\users\marco\onedrive\documentos\seminario estructura\practica 3\listadoble\src\ropa.cpp
+	"Ropa.h"
+
+1542856826 source:c:\users\marco\onedrive\documentos\seminario estructura\practica 3\listadoble\src\tienda.cpp
+	"Tienda.h"
+	<sstream>
+
